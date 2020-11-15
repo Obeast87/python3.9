@@ -47,5 +47,6 @@ elif trash == ("a") or trash == ("A"):
 #Invalid input message
 else:
     print("Invalid Input")
-
+    
+#Blank area to make room for system command prompt    
 print("")
