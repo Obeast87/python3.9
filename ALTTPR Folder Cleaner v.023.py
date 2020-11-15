@@ -4,7 +4,7 @@
 #Change it (or give an option) to only delete *.sfc files in said folder
 #Show how many files were deleted/trashed
 
-#Changes in .023
+#Changes in .022/.023
 #Simplified folder location part of script to hopefully save space
 #Added "are you sure?" input for deleting the folder
 #Added Simpsons reference/meme because why not
